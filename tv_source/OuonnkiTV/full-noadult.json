@@ -28,38 +28,10 @@
     "isEnabled": true
   },
   {
-    "id": "cj-lzcaiji-com",
-    "name": "量子资源",
-    "url": "https://cj.lzcaiji.com/api.php/provide/vod",
-    "detailUrl": "https://cj.lzcaiji.com",
-    "isEnabled": true
-  },
-  {
     "id": "jszyapi-com",
     "name": "极速资源",
     "url": "https://jszyapi.com/api.php/provide/vod",
     "detailUrl": "https://jszyapi.com",
-    "isEnabled": true
-  },
-  {
-    "id": "www-moduzy-net",
-    "name": "魔都资源",
-    "url": "https://www.mdzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://www.moduzy.net",
-    "isEnabled": true
-  },
-  {
-    "id": "ffzyapi-com",
-    "name": "非凡资源",
-    "url": "https://api.ffzyapi.com/api.php/provide/vod",
-    "detailUrl": "https://cj.ffzyapi.com",
-    "isEnabled": true
-  },
-  {
-    "id": "zuida-xyz",
-    "name": "最大资源",
-    "url": "https://api.zuidapi.com/api.php/provide/vod",
-    "detailUrl": "https://zuida.xyz",
     "isEnabled": true
   },
   {
@@ -81,13 +53,6 @@
     "name": "U酷影视",
     "url": "https://api.ukuapi88.com/api.php/provide/vod",
     "detailUrl": "https://www.ukuzy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "api-guangsuapi-com",
-    "name": "光速资源",
-    "url": "https://api.guangsuapi.com/api.php/provide/vod",
-    "detailUrl": "https://api.guangsuapi.com",
     "isEnabled": true
   },
   {
